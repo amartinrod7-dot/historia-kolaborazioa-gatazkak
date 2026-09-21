@@ -6,8 +6,12 @@ ander Llorente naiz
 eta gaur antsoainen aterako naiz.
 Gauen Maiza Charco-n ikusi genuen
 Ta parrandan atera ginen.
-=======
+
 
 ander Llorente naiz
 eta gaur antsoainen aterako naiz.
+ HEAD
  main
+
+Bukatzeko zerbait jango dut egitera 
+ origin/final-b
